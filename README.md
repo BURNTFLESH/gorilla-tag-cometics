@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Downloads
 
-you can download my hats here(https://github.com/IKENV2/Hatz/blob/main/README.md)
+you can download my hats here<a>https://github.com/IKENV2/Hatz/blob/main/README.md<a/>
 
 
 
