@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to were you can acsess all of my cosmetics
 
 You can use the [editor on GitHub](https://github.com/IKENV2/gorilla-tag-cometics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
