@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/IKENV2/gorilla-tag-cometic
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Downloads
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+you can download my hats here(https://github.com/IKENV2/Hatz/blob/main/README.md)
 
 
 
