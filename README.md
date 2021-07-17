@@ -12,6 +12,7 @@ you can download my hats <a href="https://github.com/IKENV2/Hatz">Here<a/>
  
 you can download my materials <a href="https://github.com/IKENV2/Materials">Here<a/> all materials by <a href="https://github.com/GreenMan36/AllGorillaTagMaterials">GreenMan36<a/>
  
+ <img src="https://media.discordapp.net/attachments/815728572479701012/863134741674721340/com.AnotherAxiom.GorillaTag-20210709-150442.jpg?width=593&height=593" height="200"/>
  
 
 
