@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Downloads
 
-you can download my hats <a href="https://github.com/IKENV2/Hatz/blob/main/README.md">here<a/>
+you can download my hats <a href="https://github.com/IKENV2/Hatz">here<a/>
+  a website that you can get all cosmetics
 
 
 
